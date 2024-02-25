@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Youtube Extension**
+ 🔭 a Pixel Perfect Frontend Developer!
  
 💬 Ask me about ** React, Next.js or anything [here](https://github.com/Sina-Abf/Sina-Abf/issues)**
 
