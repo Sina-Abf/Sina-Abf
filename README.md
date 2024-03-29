@@ -25,7 +25,6 @@
 </div>
 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
