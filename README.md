@@ -1,23 +1,20 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">Hi 👋, I'm Sina Abdollahi</h1>
+<h3 align="center">Frontend Developer at Omega Do It.Solutions</h3>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sina+Abf!;" />
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sina-abf&label=Profile%20views&color=0e75b6&style=flat" alt="sina-abf" /> </p>
 
-<h3 align="center">A passionate Frontend Developer from Iran</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sina-abf" alt="sina-abf" /></a> </p>
 
-<br/>
+<p>
+  I'm Sina Abdollahi, a Frontend Developer based in Iran. My passion lies in leveraging technology to solve complex problems and to be a successful developer.
+</p>
 
-<div align="center">
- 
- 🔭 a Pixel Perfect Frontend Developer!
- 
-💬 Ask me about ** React, Next.js or anything [here](https://github.com/Sina-Abf/Sina-Abf/issues)**
+- 🎥 I’m currently building: **Iran Pal, Mastertube Chrome Extension**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 🎥 I’m building next: *a Great Portfolio website**
 
- </div>
- 
+- 💬 Ask me about **Git, Next, Getting into Software Engineering**
+
 <div align="center"> 
   <a href="mailto:abf.sina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,24 +24,20 @@
   </a>
 </div>
 
- <hr/>
- 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,gatsby" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwindcss,materialui,styledcomponents,sass" /><br/>
+    <img src="https://skillicons.dev/icons?i=jest,cypress,vitest" /><br/>
+    <img src="https://skillicons.dev/icons?i=webpack,vite" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,docker" /><br/>
 </div>
 
-<br/>
-<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sina-abf&show_icons=true&locale=en&layout=compact" alt="sina-abf" /></p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sina-abf&show_icons=true&locale=en" alt="sina-abf" /></p>
 
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sina-Abf&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sina-Abf&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sina-Abf&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sina-abf&" alt="sina-abf" /></p>
