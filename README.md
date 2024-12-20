@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sina Abdollahi</h1>
-<h3 align="center">Frontend Developer at Omega Do It.Solutions</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sina-abf&label=Profile%20views&color=0e75b6&style=flat" alt="sina-abf" /> </p>
 
@@ -9,7 +9,7 @@
   I'm Sina Abdollahi, a Frontend Developer based in Iran. My passion lies in leveraging technology to solve complex problems and to be a successful developer.
 </p>
 
-- 🎥 I’m currently building: **Techsiro Ecommerce Website, Mastertube Chrome Extension**
+- 🎥 I’m currently building: **Techsiro Ecommerce Website**
 
 - 🎥 I’m building next: *a Great Portfolio website**
 
