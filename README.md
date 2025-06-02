@@ -9,11 +9,7 @@
   I'm Sina Abdollahi, a Frontend Developer based in Iran. My passion lies in leveraging technology to solve complex problems and to be a successful developer.
 </p>
 
-- 🎥 I’m currently building: **Techsiro Ecommerce Website**
-
-- 🎥 I’m building next: *a Great Portfolio website**
-
-- 💬 Ask me about **Git, Next, Getting into Software Engineering**
+ 💬 Ask me about **Git, Next, Getting into Software Engineering**
 
 <div align="center"> 
   <a href="mailto:abf.sina@gmail.com">
